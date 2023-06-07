@@ -1,2 +1,3 @@
 # The_Bug_Station
-My solderstation
+The soldering station i made for Project Technologie
+
